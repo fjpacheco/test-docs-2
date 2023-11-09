@@ -10,4 +10,4 @@ Test docs 2!
    :maxdepth: 2
    :caption: Contents:
 
-   some-feature.m
+   some-feature.md
